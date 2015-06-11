@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:gtfs="http://vocab.gtfs.org/terms#"
+	xmlns:route="https://route-owl.github.io/ontology#"
+	xmlns:lexvo="http://lexvo.org/id/"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:skos="http://www.w3.org/2004/02/skos/core#">
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource%2Fagency%2F+%CE%91thens+Urban+Transport+Organisation">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#Agency"/>
+	<skos:altLabel>Οργανισμός Αστικών Συγκοινωνιών ΟΑΣΑ </skos:altLabel>
+	<route:URL>http://www.oasa.gr</route:URL>
+	<route:timezone rdf:datatype="http://www.w3.org/2001/XMLSchema#int">Europe/Athens</route:timezone>
+</rdf:Description>
+
+<rdf:Description rdf:about="http://lexvo.org/id/iso639-3/ell">
+	<rdf:type rdf:resource="http://lexvo.org/id/el"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource%2Fagency%2F+%CE%91thens+Urban+Transport+Organisation">
+	<route:language rdf:resource="http://lexvo.org/id/iso639-3/ell"/>
+	<route:phone>3.02108200999E11</route:phone>
+	<owl:sameAs rdf:resource="http://dbpedia.org/resource/Athens_Mass_Transit_System"/>
+	<route:name> Αthens Urban Transport Organisation</route:name>
+</rdf:Description>
+
+</rdf:RDF>

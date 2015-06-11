@@ -1,0 +1,1150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:schema="http://schema.org/"
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/A">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>A</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91.%CE%9B%CE%99%CE%9F%CE%A3%CE%99%CE%91+%28%CE%A0%CE%91%CE%9D%CE%9F%CE%A1%CE%91%CE%9C%CE%91%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Α.ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91.+%CE%A0%CE%91%CE%A4%CE%97%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Α. ΠΑΤΗΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΒΕΡΩΦ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΒΕΡΩΦ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%91%CE%9D%CE%91%CE%A1%CE%93%CE%A5%CE%A1%CE%9F%CE%99">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΑΝΑΡΓΥΡΟΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%91%CE%9D%CE%91%CE%A1%CE%93%CE%A5%CE%A1%CE%9F%CE%99+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%9F%CE%A5%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΑΝΑΡΓΥΡΟΙ (Μέσω ΚΗΦΙΣΟΥ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%99%CE%9F%CE%A3+%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΑΝΤΩΝΙΟΣ Α</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%99%CE%9F%CE%A3+%CE%92">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΑΝΤΩΝΙΟΣ Β</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%91%CE%A1%CE%A4%CE%95%CE%9C%CE%99%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΑΡΤΕΜΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%92%CE%91%CE%A1%CE%92%CE%91%CE%A1%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΒΑΡΒΑΡΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%92%CE%91%CE%A3%CE%99%CE%9B%CE%95%CE%99%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΒΑΣΙΛΕΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%94%CE%97%CE%9C%CE%97%CE%A4%CE%A1%CE%99%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΔΗΜΗΤΡΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%94%CE%97%CE%9C%CE%97%CE%A4%CE%A1%CE%99%CE%9F%CE%A3+%28%CE%A3%CE%A4%CE%91%CE%98.+%CE%94%CE%91%CE%A6%CE%9D%CE%97%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%95%CE%9B%CE%95%CE%A5%CE%98%CE%95%CE%A1%CE%99%CE%9F%CE%A3+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%98%CE%97%CE%92%CE%A9%CE%9D%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (Μέσω ΘΗΒΩΝ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%99%CE%A9%CE%91%CE%9D%CE%9D%CE%97%CE%A3+%CE%A1%CE%95%CE%9D%CE%A4%CE%97%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%9D%CE%99%CE%9A%CE%9F%CE%9B%CE%91%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΝΙΚΟΛΑΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%A0%CE%91%CE%A1%CE%91%CE%A3%CE%9A%CE%95%CE%A5%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΠΑΡΑΣΚΕΥΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93.+%CE%A6%CE%91%CE%9D%CE%9F%CE%A5%CE%A1%CE%99%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓ. ΦΑΝΟΥΡΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93%CE%99%CE%91+%CE%91%CE%9D%CE%91%CE%A3%CE%A4%CE%91%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓΙΑ ΑΝΑΣΤΑΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93%CE%99%CE%91+%CE%9C%CE%91%CE%A1%CE%99%CE%9D%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓΙΑ ΜΑΡΙΝΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93%CE%99%CE%91+%CE%A4%CE%A1%CE%99%CE%91%CE%94%CE%91+%CE%A0%CE%95%CE%A4%CE%A1%CE%9F%CE%A5%CE%A0%CE%9F%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓΙΑ ΤΡΙΑΔΑ ΠΕΤΡΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%93%CE%99%CE%9F%CE%A3+%CE%9A%CE%9F%CE%A3%CE%9C%CE%91%CE%A3+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%A0%CE%91%CE%A1%CE%91%CE%9B%CE%99%CE%91%CE%9A%CE%97%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΓΙΟΣ ΚΟΣΜΑΣ (Μέσω ΠΑΡΑΛΙΑΚΗΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%95%CE%A1%2F%CE%9D%CE%91%CE%A3+%CE%91%CE%98%CE%97%CE%9D%CE%A9%CE%9D+%28EXPRESS%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΕΡΟΔΡΟΜΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΕΡΟΔΡΟΜΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%95%CE%A1%CE%9F%CE%9B.+%CE%91%CE%98%CE%97%CE%9D%CE%A9%CE%9D+%28EXPRESS%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΙΓΑΛΕΩ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΙΓΑΛΕΩ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%91%C3%8E%C2%B9%C3%8E%C2%B3%C3%8E%C2%AC%C3%8E%C2%BB%C3%8E%C2%B5%C3%8F%C2%89</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΚΑΔΗΜΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΚΑΔΗΜΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΚΡΟΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΚΡΟΠΟΛΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/page/%CE%91%CE%BA%CF%81%CF%8C%CF%80%CE%BF%CE%BB%CE%B7_%28%CF%83%CF%85%CE%BD%CE%BF%CE%B9%CE%BA%CE%AF%CE%B1%29</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΛΙΜΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΛΙΜΟΣ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%86%C3%8E%C2%BB%C3%8E%C2%B9%C3%8E%C2%BC%C3%8E%C2%BF%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9C%CE%91%CE%9E%2F%CE%A3%CE%99%CE%9F++%CE%91%CE%93.+%CE%94%CE%97%CE%9C%CE%97%CE%A4%CE%A1%CE%99%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΜΑΞ/ΣΙΟ  ΑΓ. ΔΗΜΗΤΡΙΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΝΑΚΑΣΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΑΚΑΣΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΝΘΟΥΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΘΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΝΘΟΥΣΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΘΟΥΣΑ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%91%C3%8E%C2%BD%C3%8E%C2%B8%C3%8E%C2%BF%C3%8F%C2%8D%C3%8F%C2%83%C3%8E%C2%B1_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%91%CE%93.+%CE%92%CE%91%CE%A1%CE%92%CE%91%CE%A1%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΑΓ. ΒΑΡΒΑΡΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%92%CE%A1%CE%99%CE%9B%CE%97%CE%A3%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΒΡΙΛΗΣΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%93%CE%91%CE%9B%CE%91%CE%A4%CE%A3%CE%99">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΓΑΛΑΤΣΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%93%CE%9B%CE%A5%CE%A6%CE%91%CE%94%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΓΛΥΦΑΔΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%93%CE%9B%CE%A5%CE%A6%CE%91%CE%94%CE%91+%28%CE%A0%CE%91%CE%9D%CE%9F%CE%A1%CE%91%CE%9C%CE%91+%CE%92%CE%9F%CE%A5%CE%9B%CE%91%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΓΛΥΦΑΔΑ (ΠΑΝΟΡΑΜΑ ΒΟΥΛΑΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%99%CE%9D%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΕΛΕΥΣΙΝΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%97%CE%9B%CE%99%CE%9F%CE%A5%CE%A0%CE%9F%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΗΛΙΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%99%CE%9B%CE%99%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΙΛΙΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%9A%CE%91%CE%9B%CE%91%CE%9C%CE%91%CE%9A%CE%99">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΚΑΛΑΜΑΚΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%9A%CE%9F%CE%A1%CE%A5%CE%94%CE%91%CE%9B%CE%9B%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΚΟΡΥΔΑΛΛΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%9A%CE%A5%CE%A8%CE%95%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΚΥΨΕΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%9B%CE%99%CE%9F%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΛΙΟΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%9D.+%CE%A3%CE%9C%CE%A5%CE%A1%CE%9D%CE%97+%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ Ν. ΣΜΥΡΝΗ Α</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%9D.+%CE%A3%CE%9C%CE%A5%CE%A1%CE%9D%CE%97+%CE%92">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ Ν. ΣΜΥΡΝΗ Β</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%9D%CE%A9+%CE%A0%CE%95%CE%A4%CE%A1%CE%91%CE%9B%CE%A9%CE%9D%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΝΩ ΠΕΤΡΑΛΩΝΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΡΓΥΡΟΥΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΡΓΥΡΟΥΠΟΛΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%91%C3%8F%C2%81%C3%8E%C2%B3%C3%8F%C2%85%C3%8F%C2%81%C3%8E%C2%BF%C3%8F%C2%8D%C3%8F%C2%80%C3%8E%C2%BF%C3%8E%C2%BB%C3%8E%C2%B7</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΡΤΕΜΙΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΡΤΕΜΙΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%A1%CE%A4%CE%95%CE%9C%CE%99%CE%A3+%28%CE%91%CE%93.+%CE%9D%CE%99%CE%9A%CE%9F%CE%9B%CE%91%CE%9F%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%A1%CE%A4%CE%95%CE%9C%CE%99%CE%A3+%28%CE%92%CE%A1%CE%91%CE%A5%CE%A1%CE%A9%CE%9D%CE%91%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΣΠΡΟΠΥΡΓΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΣΠΡΟΠΥΡΓΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%A4%CE%A4%CE%99%CE%9A%CE%9F+%CE%9D%CE%9F%CE%A3%CE%9F%CE%9A%CE%9F%CE%9C%CE%95%CE%99%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΑΧΑΡΝΑΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΧΑΡΝΑΙ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%91%C3%8F%C2%87%C3%8E%C2%B1%C3%8F%C2%81%C3%8E%C2%BD%C3%8E%C2%AD%C3%8F%C2%82_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%91%CE%A7%CE%91%CE%A1%CE%9D%CE%91%CE%99+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%91%CE%A1%CE%99%CE%A3%CE%A4%CE%9F%CE%A4%CE%95%CE%9B%CE%9F%CE%A5%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΑΧΑΡΝΑΙ (Μέσω ΑΡΙΣΤΟΤΕΛΟΥΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΒΑΡΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΑΡΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΒΑΡΚΙΖΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΑΡΚΙΖΑ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%92%C3%8E%C2%AC%C3%8F%C2%81%C3%8E%C2%BA%C3%8E%C2%B9%C3%8E%C2%B6%C3%8E%C2%B1_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΒΑΡΥΜΠΟΜΠΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΑΡΥΜΠΟΜΠΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%92%C3%8E%C2%B1%C3%8F%C2%81%C3%8F%C2%85%C3%8E%C2%BC%C3%8F%C2%80%C3%8F%C2%8C%C3%8E%C2%BC%C3%8F%C2%80%C3%8E%C2%B7</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΒΟΤΑΝΙΚΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΟΤΑΝΙΚΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΒΟΥΛΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΟΥΛΑ</rdfs:label>
+	<owl:sameAs>http://dbpedia.org/resource/Voula</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%92%CE%9F%CE%A5%CE%9B%CE%91+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%9B.+%CE%91%CE%9C%CE%A6%CE%99%CE%98%CE%95%CE%91%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΟΥΛΑ (Μέσω Λ. ΑΜΦΙΘΕΑΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΒΡΑΥΡΩΝΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΒΡΑΥΡΩΝΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΓΑΛΑΤΣΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΓΑΛΑΤΣΙ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%93%C3%8E%C2%B1%C3%8E%C2%BB%C3%8E%C2%AC%C3%8F%C2%84%C3%8F%C2%83%C3%8E%C2%B9</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΓΗΡΟΚΟΜΕΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΓΗΡΟΚΟΜΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΓΚΥΖΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΓΚΥΖΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%93%C3%8E%C2%BA%C3%8F%C2%8D%C3%8E%C2%B6%C3%8E%C2%B7</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΓΛΥΦΑΔΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΓΛΥΦΑΔΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%93%CE%9B%CE%A5%CE%A6%CE%91%CE%94%CE%91++%28%CE%9C%CE%AD%CF%83%CF%89+%CE%92%CE%9F%CE%A5%CE%9B%CE%99%CE%91%CE%93%CE%9C%CE%95%CE%9D%CE%97%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΓΛΥΦΑΔΑ  (Μέσω ΒΟΥΛΙΑΓΜΕΝΗΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΓΟΥΔΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΓΟΥΔΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΔΑΣΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΔΑΣΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%94%CE%91%CE%A3%CE%9F%CE%A3+%CE%92+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%99%CE%95%CE%A1%CE%91%CE%A3+%CE%9F%CE%94%CE%9F%CE%A5%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΔΑΣΟΣ Β (Μέσω ΙΕΡΑΣ ΟΔΟΥ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΔΑΦΝΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΔΑΦΝΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΔΙΟΝΥΣΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΔΙΟΝΥΣΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΔΡΑΠΕΤΣΩΝΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΔΡΑΠΕΤΣΩΝΑ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%94%C3%8F%C2%81%C3%8E%C2%B1%C3%8F%C2%80%C3%8E%C2%B5%C3%8F%C2%84%C3%8F%C2%83%C3%8F%C2%8E%C3%8E%C2%BD%C3%8E%C2%B1</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%95%CE%9B.+%CE%92%CE%95%CE%9D%CE%99%CE%96%CE%95%CE%9B%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛ. ΒΕΝΙΖΕΛΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΕΛΕΥΣΙΝΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΕΥΣΙΝΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%99%CE%9D%CE%91+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%98%CE%97%CE%92%CE%A9%CE%9D%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΕΥΣΙΝΑ (Μέσω ΘΗΒΩΝ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%99%CE%9D%CE%91+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%99%CE%95%CE%A1%CE%91%CE%A3+%CE%9F%CE%94%CE%9F%CE%A5%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΕΥΣΙΝΑ (Μέσω ΙΕΡΑΣ ΟΔΟΥ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%95%CE%9B%CE%95%CE%A5%CE%A3%CE%99%CE%9D%CE%91+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%9B.+%CE%95%CE%98%CE%9D.%CE%91%CE%9D%CE%A4%CE%99%CE%A3%CE%A4%CE%91%CE%A3%CE%95%CE%A9%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΕΥΣΙΝΑ (Μέσω Λ. ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΕΛΛΗNIKO">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΛΗNIKO</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΕΛΛΗΝΙΚΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΛΗΝΙΚΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΕΛΛΗΝΟΡΩΣΩΝ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΕΛΛΗΝΟΡΩΣΩΝ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΖΑΠΠΕΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΖΑΠΠΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΖΗΡΙΝΕΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΖΗΡΙΝΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΖΩΓΡΑΦΟΥ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΖΩΓΡΑΦΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%96%CE%A9%CE%9F%CE%94.+%CE%A0%CE%97%CE%93%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΖΩΟΔ. ΠΗΓΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΖΩΦΡΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΖΩΦΡΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΗΡΑΚΛΕΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΗΡΑΚΛΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΘΡΑΚ/ΔΟΝΕΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΘΡΑΚ/ΔΟΝΕΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%98%C3%8F%C2%81%C3%8E%C2%B1%C3%8E%C2%BA%C3%8E%C2%BF%C3%8E%C2%BC%C3%8E%C2%B1%C3%8E%C2%BA%C3%8E%C2%B5%C3%8E%C2%B4%C3%8F%C2%8C%C3%8E%C2%BD%C3%8E%C2%B5%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΙΠΠΟΚΡΑΤΟΥΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΙΠΠΟΚΡΑΤΟΥΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΑΙΣΑΡΙΑΝΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΑΙΣΑΡΙΑΝΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9A%C3%8E%C2%B1%C3%8E%C2%B9%C3%8F%C2%83%C3%8E%C2%B1%C3%8F%C2%81%C3%8E%C2%B9%C3%8E%C2%B1%C3%8E%C2%BD%C3%8E%C2%AE</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΑΜΑΤΕΡΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΑΜΑΤΕΡΟ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9A%C3%8E%C2%B1%C3%8E%C2%BC%C3%8E%C2%B1%C3%8F%C2%84%C3%8E%C2%B5%C3%8F%C2%81%C3%8F%C2%8C</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΑΝΙΓΓΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΑΝΙΓΓΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΑΡΕΑΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΑΡΕΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΕΡΑΤΣΙΝΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΕΡΑΤΣΙΝΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΗΠΟΥΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΗΠΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΗΦΙΣΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΗΦΙΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%99%CE%91+%28%CE%A0%CE%9B.%CE%A0%CE%9B%CE%91%CE%A4%CE%91%CE%9D%CE%9F%CE%A5%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΗΦΙΣΙΑ (ΠΛ.ΠΛΑΤΑΝΟΥ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΙΤΣΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΙΤΣΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΟΡΥΔΑΛΛΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΟΡΥΔΑΛΛΟΣ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9A%C3%8E%C2%BF%C3%8F%C2%81%C3%8F%C2%85%C3%8E%C2%B4%C3%8E%C2%B1%C3%8E%C2%BB%C3%8E%C2%BB%C3%8F%C2%8C%C3%8F%C2%82_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΟΡΩΠΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΟΡΩΠΙ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9A%C3%8E%C2%BF%C3%8F%C2%81%C3%8F%C2%89%C3%8F%C2%80%C3%8E%C2%AF</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9A%CE%A1%CE%91%CE%A4.+%CE%9D%CE%99%CE%9A%CE%91%CE%99%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΡΑΤ. ΝΙΚΑΙΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΚΡΥΟΝΕΡΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΚΡΥΟΝΕΡΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΛΑΜΠΡΙΝΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΛΑΜΠΡΙΝΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9B%CE%99%CE%9C.+%CE%A0%CE%95%CE%A1%CE%91%CE%9C%CE%91%CE%A4%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΛΙΜ. ΠΕΡΑΜΑΤΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9B%CE%9F%CE%A6%CE%9F%CE%A3+%CE%91%CE%9E%CE%99%CE%A9%CE%9C%CE%91%CE%A4%CE%99%CE%9A%CE%A9%CE%9D">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9B%CE%9F%CE%A6%CE%9F%CE%A3+%CE%92%CE%A9%CE%9A%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΛΟΦΟΣ ΒΩΚΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9B%CE%9F%CE%A6%CE%9F%CE%A3+%CE%9A%CE%A5%CE%A1%CE%99%CE%9B%CE%9B%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΑΓΟΥΛΑ(ΚΙΑΤΟ)">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΑΓΟΥΛΑ(ΚΙΑΤΟ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΑΝΔΡΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΑΝΔΡΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9C%CE%91%CE%9D%CE%94%CE%A1%CE%91+%28%CE%9F%CE%99%CE%9A%CE%99%CE%A3%CE%9C%CE%9F%CE%A3+%CE%A4%CE%99%CE%A4%CE%91%CE%9D%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΑΝΔΡΑ (ΟΙΚΙΣΜΟΣ ΤΙΤΑΝ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΑΡΑΣΛΕΙΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΑΡΑΣΛΕΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΑΡΝΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΑΡΝΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΑΡΟΥΣΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΑΡΟΥΣΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΕΛΙΣΣΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΕΛΙΣΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΕΤΑΜΟΡΦΩΣΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΕΤΑΜΟΡΦΩΣΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9C%C3%8E%C2%B5%C3%8F%C2%84%C3%8E%C2%B1%C3%8E%C2%BC%C3%8F%C2%8C%C3%8F%C2%81%C3%8F%C2%86%C3%8F%C2%89%C3%8F%C2%83%C3%8E%C2%B7_(%C3%8E%C2%B1%C3%8F%C2%80%C3%8E%C2%BF%C3%8F%C2%83%C3%8E%C2%B1%C3%8F%C2%86%C3%8E%C2%AE%C3%8E%C2%BD%C3%8E%C2%B9%C3%8F%C2%83%C3%8E%C2%B7)</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΜΟΥΣΕΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΜΟΥΣΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%95%CE%9B%CE%92%CE%95%CE%A4%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΕΛΒΕΤΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%95%CE%A1%CE%A5%CE%98%CE%A1%CE%91%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΕΡΥΘΡΑΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%99%CE%A9%CE%9D%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΙΩΝΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΚΗΦΙΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%9A%CE%A5%CE%A8%CE%95%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΚΥΨΕΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%A0%CE%95%CE%9D%CE%A4%CE%95%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΠΕΝΤΕΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D.+%CE%A6%CE%99%CE%9B%CE%91%CE%94%CE%95%CE%9B%CE%A6%CE%95%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ν. ΦΙΛΑΔΕΛΦΕΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΝΕΑΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΕΑΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D%CE%95%CE%9A%CE%A1.+%CE%96%CE%A9%CE%93%CE%A1%CE%91%CE%A6%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΕΚΡ. ΖΩΓΡΑΦΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D%CE%95%CE%9A%CE%A1.+%CE%A3%CE%A7%CE%99%CE%A3%CE%A4%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΕΚΡ. ΣΧΙΣΤΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΝΕΟΚΤΙΣΤΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΕΟΚΤΙΣΤΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D%CE%95%CE%9F+%CE%A6%CE%91%CE%9B%CE%97%CE%A1%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΕΟ ΦΑΛΗΡΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΝΙΚΑΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΙΚΑΙΑ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9D%C3%8E%C2%AF%C3%8E%C2%BA%C3%8E%C2%B1%C3%8E%C2%B9%C3%8E%C2%B1_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D%CE%9F%CE%A3.+%CE%91%CE%93.+%CE%91%CE%9D%CE%91%CE%A1%CE%93%CE%A5%CE%A1%CE%A9%CE%9D">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΩΝ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D%CE%9F%CE%A3%CE%9F%CE%9A.+%CE%91%CE%93.+%CE%91%CE%9D%CE%91%CE%A1%CE%93%CE%A5%CE%A1%CE%9F%CE%99">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΟΣΟΚ. ΑΓ. ΑΝΑΡΓΥΡΟΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9D%CE%9F%CE%A3%CE%9F%CE%9A.+%CE%A0%CE%95%CE%9D%CE%A4%CE%95%CE%9B%CE%97%CE%A3+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%A0%CE%99%CE%9A%CE%A0%CE%91%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (Μέσω ΠΙΚΠΑ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/Ο.Α.Κ.Α">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Ο.Α.Κ.Α</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%9F%CE%9B%CE%A5%CE%9C%CE%A0.+%CE%A7%CE%A9%CE%A1%CE%99%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΟΛΥΜΠ. ΧΩΡΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΟΜΟΝΟΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΟΜΟΝΟΙΑ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9F%C3%8E%C2%BC%C3%8F%C2%8C%C3%8E%C2%BD%C3%8E%C2%BF%C3%8E%C2%B9%C3%8E%C2%B1_(%C3%8E%C2%91%C3%8E%C2%B8%C3%8E%C2%AE%C3%8E%C2%BD%C3%8E%C2%B1)</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΟΡΦΕΩΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΟΡΦΕΩΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0.+%CE%A0%CE%95%CE%9D%CE%A4%CE%95%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Π. ΠΕΝΤΕΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0.+%CE%A6%CE%91%CE%9B%CE%97%CE%A1%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Π. ΦΑΛΗΡΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%91%CE%9B.+%CE%A6%CE%91%CE%9B%CE%97%CE%A1%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΛ. ΦΑΛΗΡΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΑΛΑΤΑΚΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΛΑΤΑΚΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΑΛΛΗΝΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΛΛΗΝΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%94%C3%8E%C2%AE%C3%8E%C2%BC%C3%8E%C2%BF%C3%8F%C2%82_%C3%8E%C2%A0%C3%8E%C2%B1%C3%8E%C2%BB%C3%8E%C2%BB%C3%8E%C2%AE%C3%8E%C2%BD%C3%8E%C2%B7%C3%8F%C2%82_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%91%CE%9D%CE%95%CE%A0%CE%99%CE%A3%CE%A4%CE%97%CE%9C%CE%99%CE%9F%CE%A5%CE%A0%CE%9F%CE%9B%CE%97+%28%CE%A3%CE%A7%CE%9F%CE%9B%CE%99%CE%9A%CE%97+EXPRESS%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΑΠΑΓΟΥ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΠΑΓΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΑΡΑΛΙΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΑΡΑΛΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΙΡΑΙΑΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΙΡΑΙΑΣ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9A%C3%8E%C2%B1%C3%8F%C2%84%C3%8E%C2%B7%C3%8E%C2%B3%C3%8E%C2%BF%C3%8F%C2%81%C3%8E%C2%AF%C3%8E%C2%B1:%C3%8E%C2%A0%C3%8E%C2%B5%C3%8E%C2%B9%C3%8F%C2%81%C3%8E%C2%B1%C3%8E%C2%B9%C3%8E%C2%AC%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%95%CE%99%CE%A1%CE%91%CE%99%CE%91%CE%A3+%CE%92+%28%CE%9A%CE%A5%CE%9A%CE%9B%CE%99%CE%9A%CE%97%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%9A%C3%8E%C2%B1%C3%8F%C2%84%C3%8E%C2%B7%C3%8E%C2%B3%C3%8E%C2%BF%C3%8F%C2%81%C3%8E%C2%AF%C3%8E%C2%B1:%C3%8E%C2%A0%C3%8E%C2%B5%C3%8E%C2%B9%C3%8F%C2%81%C3%8E%C2%B1%C3%8E%C2%B9%C3%8E%C2%AC%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΡΑΜΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΡΑΜΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%95%CE%A1%CE%91%CE%9C%CE%91+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%93%CE%A1.+%CE%9B%CE%91%CE%9C%CE%A0%CE%A1%CE%91%CE%9A%CE%97%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΡΑΜΑ (Μέσω ΓΡ. ΛΑΜΠΡΑΚΗ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%95%CE%A1%CE%91%CE%9C%CE%91+%28%CE%9C%CE%AD%CF%83%CF%89+%CE%A0.+%CE%A1%CE%91%CE%9B%CE%9B%CE%97%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΡΑΜΑ (Μέσω Π. ΡΑΛΛΗ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΡΙΣΣΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΡΙΣΣΟΣ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%A0%C3%8E%C2%B5%C3%8F%C2%81%C3%8E%C2%B9%C3%8F%C2%83%C3%8F%C2%83%C3%8F%C2%8C%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΡΙΣΤΕΡΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΡΙΣΤΕΡΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%95%CE%A1%CE%99%CE%A3%CE%A4%CE%95%CE%A1%CE%99+%28%CE%91%CE%93.+%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%99%CE%9F%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΡΙΣΤΕΡΙ (ΑΓ. ΑΝΤΩΝΙΟΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΤΡΑΛΩΝΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΤΡΑΛΩΝΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΤΡΟΥΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΤΡΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%95%CE%A4%CE%A1%CE%9F%CE%A5%CE%A0%CE%9F%CE%9B%CE%97+%28%CE%9C%CE%95%CE%A3%CE%A9+%CE%A0%CE%91%CE%9D%CE%9F%CE%A1%CE%91%CE%9C%CE%91%CE%A4%CE%9F%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΕΥΚΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΕΥΚΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%A0%C3%8E%C2%B5%C3%8F%C2%8D%C3%8E%C2%BA%C3%8E%C2%B7</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%9B.+%CE%92%CE%91%CE%98%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΛ. ΒΑΘΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%9B.+%CE%9A%CE%91%CE%A1%CE%91%CE%AA%CE%A3%CE%9A%CE%91%CE%9A%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΛ. ΚΑΡΑΪΣΚΑΚΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%9B.+%CE%9A%CE%9F%CE%A5%CE%9C%CE%9F%CE%A5%CE%9D%CE%94%CE%9F%CE%A5%CE%A1%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%9B%CE%91%CE%A4%CE%95%CE%99%CE%91+%CE%9A%CE%9F%CE%A5%CE%9C%CE%9F%CE%A5%CE%9D%CE%94%CE%9F%CE%A5%CE%A1%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΛΑΤΕΙΑ ΚΟΥΜΟΥΝΔΟΥΡΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΟΛΥΓΩΝΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΟΛΥΓΩΝΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΟΛΥΔΡΟΣΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΟΛΥΔΡΟΣΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΟΛΥΤΕΧΝΕΙΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΟΛΥΤΕΧΝΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΡΟΑΣΤ.ΚΟΡΩΠΙΟΥ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΡΟΑΣΤ.ΚΟΡΩΠΙΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΠΡΟΥΣΣΗΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΡΟΥΣΣΗΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A0%CE%A1%CE%9F%CE%A6.+%CE%94%CE%91%CE%9D%CE%99%CE%97%CE%9B">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΠΡΟΦ. ΔΑΝΙΗΛ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΡΟΥΠΑΚΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΡΟΥΠΑΚΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΣΑΡΩΝΙΔΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΑΡΩΝΙΔΑ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%A3%C3%8E%C2%B1%C3%8F%C2%81%C3%8F%C2%89%C3%8E%C2%BD%C3%8E%C2%AF%C3%8E%C2%B4%C3%8E%C2%B1_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%91%CE%93.+%CE%91%CE%9D%CE%A4%CE%A9%CE%9D%CE%99%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%91%CE%93.+%CE%94%CE%97%CE%9C%CE%97%CE%A4%CE%A1%CE%99%CE%9F%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%91%CE%A1%CE%93%CE%A5%CE%A1%CE%9F%CE%A5%CE%A0%CE%9F%CE%9B%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%94.+%CE%A0%CE%9B%CE%91%CE%9A%CE%95%CE%9D%CE%A4%CE%99%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. Δ. ΠΛΑΚΕΝΤΙΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%94%CE%91%CE%A6%CE%9D%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΔΑΦΝΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%94%CE%9F%CE%A5%CE%9A.+%CE%A0%CE%9B%CE%91%CE%9A%CE%95%CE%9D%CE%A4%CE%99%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%95%CE%98%CE%9D.+%CE%91%CE%9C%CE%A5%CE%9D%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%95%CE%99%CE%A1%CE%97%CE%9D%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΕΙΡΗΝΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%95%CE%9B%CE%9B%CE%97%CE%9D%CE%99%CE%9A%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΕΛΛΗΝΙΚΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9A%CE%91%CE%9B%CE%9B%CE%99%CE%98%CE%95%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΚΑΛΛΙΘΕΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9A%CE%91%CE%A4%CE%95%CE%A7%CE%91%CE%9A%CE%97">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΚΑΤΕΧΑΚΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%99%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΚΗΦΙΣΙΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9B%CE%91%CE%A1%CE%99%CE%A3%CE%97%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΛΑΡΙΣΗΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9C%CE%95%CE%A4%CE%A1%CE%9F+%CE%91%CE%93.+%CE%99%CE%A9%CE%91%CE%9D%CE%9D%CE%97%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΜΕΤΡΟ ΑΓ. ΙΩΑΝΝΗΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9C%CE%95%CE%A4%CE%A1%CE%9F+%CE%94%CE%91%CE%A6%CE%9D%CE%97%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΜΕΤΡΟ ΔΑΦΝΗΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9C%CE%95%CE%A4%CE%A1%CE%9F+%CE%94%CE%9F%CE%A5%CE%9A.+%CE%A0%CE%9B%CE%91%CE%9A.">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΜΕΤΡΟ ΔΟΥΚ. ΠΛΑΚ.</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9C%CE%95%CE%A4%CE%A1%CE%9F+%CE%95%CE%9B%CE%9B%CE%97%CE%9D%CE%99%CE%9A%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9D%CE%9F%CE%9C%CE%99%CE%A3%CE%9C.">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΝΟΜΙΣΜ.</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%9D%CE%9F%CE%9C%CE%99%CE%A3%CE%9C%CE%91%CE%A4%CE%9F%CE%9A%CE%9F%CE%A0%CE%95%CE%99%CE%9F">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%A0%CE%9B%CE%91%CE%9A%CE%95%CE%9D%CE%A4%CE%99%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΠΛΑΚΕΝΤΙΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%A3%CE%A5%CE%93%CE%93%CE%A1%CE%9F%CE%A5+%CE%A6%CE%99%CE%9E">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%A5%CE%A0%CE%95%CE%A1.+%CE%9B%CE%95%CE%A9%CE%A6.+%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%A7%CE%91%CE%9B%CE%91%CE%9D%CE%94%CE%A1%CE%99">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΧΑΛΑΝΔΡΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%A7%CE%91%CE%9B%CE%91%CE%9D%CE%94%CE%A1%CE%99%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΧΑΛΑΝΔΡΙΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4.+%CE%A7%CE%91%CE%9B%CE%91%CE%9D%CE%94%CE%A1%CE%99%CE%9F%CE%A5+%28%CE%A3%CE%99%CE%94%CE%95%CE%A1%CE%91%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4%CE%91%CE%98.+%CE%91%CE%9C%CE%91%CE%A1%CE%9F%CE%A5%CE%A3%CE%99%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΑΘ. ΑΜΑΡΟΥΣΙΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4%CE%91%CE%98.+%CE%9A%CE%91%CE%9B%CE%9B%CE%99%CE%98%CE%95%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4%CE%91%CE%98.+%CE%A5%CE%A0%CE%95%CE%A1.+%CE%9B%CE%95%CE%A9%CE%A6.+%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΑΘ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4%CE%91%CE%98%CE%9C%CE%9F%CE%A3+%CE%9A%CE%97%CE%A6%CE%99%CE%A3%CE%99%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4%CE%91%CE%98%CE%9C%CE%9F%CE%A3+%CE%9B%CE%91%CE%A1%CE%99%CE%A3%CE%97%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΣΤΑΜΑΤΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΑΜΑΤΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΣΤΟΥΡΝΑΡΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΟΥΡΝΑΡΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A4%CE%A1.+%CE%A3%CE%91%CE%9A%CE%95%CE%A4%CE%91">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΤΡ. ΣΑΚΕΤΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΣΥΝΤΑΓΜΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΥΝΤΑΓΜΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΣΧΙΣΤΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΧΙΣΤΟ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A3%CE%A7%CE%99%CE%A3%CE%A4%CE%9F+%CE%9A%CE%95%CE%A1%CE%91%CE%A4%CE%A3%CE%99%CE%9D%CE%99%CE%9F%CE%A5">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A4.%CE%95.%CE%99++%CE%91%CE%98%CE%97%CE%9D%CE%91%CE%A3">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>Τ.Ε.Ι  ΑΘΗΝΑΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΤΑΥΡΟΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΤΑΥΡΟΣ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A4%CE%95%CE%99+%CE%91%CE%98%CE%97%CE%9D%CE%A9%CE%9D+%28%CE%A3%CE%A7%CE%9F%CE%9B%CE%99%CE%9A%CE%97++EXPRESS%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΤΕΙ ΑΘΗΝΩΝ (ΣΧΟΛΙΚΗ  EXPRESS)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΤΕΡΨΙΘΕΑ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΤΕΡΨΙΘΕΑ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΤΖΙΤΖΙΦΙΕΣ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΤΖΙΤΖΙΦΙΕΣ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%A4%C3%8E%C2%B6%C3%8E%C2%B9%C3%8F%C2%84%C3%8E%C2%B6%C3%8E%C2%B9%C3%8F%C2%86%C3%8E%C2%B9%C3%8E%C2%AD%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A5%CE%A0.%CE%A0%CE%91%CE%99%CE%94%CE%95%CE%99%CE%91%CE%A3+%28EXPRESS%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΥΠ.ΠΑΙΔΕΙΑΣ (EXPRESS)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΦΙΛΟΘΕΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΦΙΛΟΘΕΗ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%A6%C3%8E%C2%B9%C3%8E%C2%BB%C3%8E%C2%BF%C3%8E%C2%B8%C3%8E%C2%AD%C3%8E%C2%B7_%C3%8E%C2%91%C3%8F%C2%84%C3%8F%C2%84%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%AE%C3%8F%C2%82</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΦΥΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΦΥΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΧΑΪΔΑΡΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΧΑΪΔΑΡΙ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%A7%C3%8E%C2%B1%C3%8F%C2%8A%C3%8E%C2%B4%C3%8E%C2%AC%C3%8F%C2%81%C3%8E%C2%B9</owl:sameAs>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΧΑΛΑΝΔΡΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΧΑΛΑΝΔΡΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/%2Fresource%2Fad_area%2F%CE%A7%CE%91%CE%9B%CE%91%CE%9D%CE%94%CE%A1%CE%99+%28%CE%95%CE%98%CE%9D.+%CE%91%CE%9D%CE%A4%CE%99%CE%A3%CE%A4%CE%91%CE%A3%CE%95%CE%A9%CE%A3%29">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΧΑΛΑΝΔΡΙ (ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΧΑΛΚΟΚΟΝΔΥΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΧΑΛΚΟΚΟΝΔΥΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΧΡΥΣΟΥΠΟΛΗ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΧΡΥΣΟΥΠΟΛΗ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΨΑΡΙ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΨΑΡΙ</rdfs:label>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/ad_area/ΨΥΧΙΚΟ">
+	<rdf:type rdf:resource="http://schema.org/AdministrativeArea"/>
+	<rdfs:label>ΨΥΧΙΚΟ</rdfs:label>
+	<owl:sameAs>http://el.dbpedia.org/resource/%C3%8E%C2%94%C3%8E%C2%AE%C3%8E%C2%BC%C3%8E%C2%BF%C3%8F%C2%82_%C3%8E%C2%A6%C3%8E%C2%B9%C3%8E%C2%BB%C3%8E%C2%BF%C3%8E%C2%B8%C3%8E%C2%AD%C3%8E%C2%B7%C3%8F%C2%82-%C3%8E%C2%A8%C3%8F%C2%85%C3%8F%C2%87%C3%8E%C2%B9%C3%8E%C2%BA%C3%8E%C2%BF%C3%8F%C2%8D</owl:sameAs>
+</rdf:Description>
+
+</rdf:RDF>

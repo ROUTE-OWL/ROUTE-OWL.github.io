@@ -1,0 +1,2820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF
+	xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/"
+	xmlns:gtfs="http://vocab.gtfs.org/terms#"
+	xmlns:route="https://route-owl.github.io/ontology#"
+	xmlns:owl="http://www.w3.org/2002/07/owl#"
+	xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Τ3-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Τ3</route:shortName>
+	<route:longName>ΝΕΟ ΦΑΛΗΡΟ - ΒΟΥΛΑ</route:longName>
+	<route:description>abc</route:description>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route_type/2">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#RouteType"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Τ3-20">
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>Τ3-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Τ4-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Τ4</route:shortName>
+	<route:longName>ΣΥΝΤΑΓΜΑ - ΝΕΟ ΦΑΛΗΡΟ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>Τ4-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Τ5-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Τ5</route:shortName>
+	<route:longName>ΣΥΝΤΑΓΜΑ - ΒΟΥΛΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>Τ5-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Μ2-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Μ2</route:shortName>
+	<route:longName>ΑΝΘΟΥΠΟΛΗ - ΣΤ.ΕΛΛΗΝΙΚΟ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route_type/1">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#RouteType"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Μ2-20">
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/1"/>
+	<route:ID>Μ2-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Μ3-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Μ3</route:shortName>
+	<route:longName>ΑΓΙΑ ΜΑΡΙΝΑ - ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΕΡΟΔΡΟΜΙΟ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/1"/>
+	<route:ID>Μ3-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Π2-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Π2</route:shortName>
+	<route:longName>ΜΑΓΟΥΛΑ(ΚΙΑΤΟ)-ΑΝΩ ΛΙΟΣΙΑ - ΑΕΡΟΔΡΟΜΙΟ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>Π2-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Μ1-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Μ1</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/1"/>
+	<route:ID>Μ1-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/1-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>T4</route:shortName>
+	<route:longName> -  </route:longName>
+	<gtfs:color>1C6F0B</gtfs:color>
+	<gtfs:textColor>ffffff</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>1-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/2-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>T5</route:shortName>
+	<route:longName> - A </route:longName>
+	<gtfs:color>D81A13</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>2-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/3-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>3</route:shortName>
+	<route:longName>  - A </route:longName>
+	<gtfs:color>FFE4CA</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>3-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/4-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>4</route:shortName>
+	<route:longName>ΑΝΩ ΚΥΨΕΛΗ - ΑΓ. ΑΡΤΕΜΙΟΣ - ΣΤ. ΜΕΤΡΟ ΑΓ. ΙΩΑΝΝΗΣ</route:longName>
+	<gtfs:color>3FFF19</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>4-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/5-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>5</route:shortName>
+	<route:longName>ΛΑΜΠΡΙΝΗ - ΠΛ. ΣΥΝΤΑΓΜΑΤΟΣ - ΤΖΙΤΖΙΦΙΕΣ</route:longName>
+	<gtfs:color>3FFF19</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/2"/>
+	<route:ID>5-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/6-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>6</route:shortName>
+	<route:longName>ΙΠΠΟΚΡΑΤΟΥΣ -ΚΟΣΜΑΣ ΑΙΤΩΛΟΣ- Ν. ΦΙΛΑΔΕΛΦΕΙΑ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route_type/0">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#RouteType"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/6-20">
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>6-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/10-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>10</route:shortName>
+	<route:longName>ΤΖΙΤΖΙΦΙΕΣ - ΧΑΛΑΝΔΡΙ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>10-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/11-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>11</route:shortName>
+	<route:longName>Α. ΠΑΤΗΣΙΑ - Ν. ΠΑΓΚΡΑΤΙ - Ν. ΕΛΒΕΤΙΑ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>11-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/12-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>12</route:shortName>
+	<route:longName>ΖΑΠΠΕΙΟ - ΠΕΡΙΣΤΕΡΙ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>12-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/14-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>14</route:shortName>
+	<route:longName>ΛΑΜΠΡΙΝΗ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΓΗΡΟΚΟΜΕΙΟ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>14-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/15-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>15</route:shortName>
+	<route:longName>ΠΕΤΡΑΛΩΝΑ - ΔΙΚΑΣΤΗΡΙΑ - ΕΛ. ΒΕΝΙΖΕΛΟΥ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>15-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/16-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>16</route:shortName>
+	<route:longName>ΑΓ. ΙΩΑΝΝΗΣ ΡΕΝΤΗΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>16-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/17-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>17</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΓ. ΓΕΩΡΓΙΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>17-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/18-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>18</route:shortName>
+	<route:longName>ΜΟΥΣΕΙΟ - ΧΑΛΑΝΔΡΙ (ΕΘΝ. ΑΝΤΙΣΤΑΣΕΩΣ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>18-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/19-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>19</route:shortName>
+	<route:longName>ΜΟΥΣΕΙΟ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ (ΣΙΔΕΡΑ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>19-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/20-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>20</route:shortName>
+	<route:longName>Ν. ΦΑΛΗΡΟ - ΚΑΣΤΕΛΛΑ - ΔΡΑΠΕΤΣΩΝΑ</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>20-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/21-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>21</route:shortName>
+	<route:longName>ΝΙΚΑΙΑ - Π. ΡΑΛΛΗ - ΟΜΟΝΟΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>21-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/24-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>24</route:shortName>
+	<route:longName>ΠΕΤΡΟΥΠΟΛΗ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>24-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/25-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>25</route:shortName>
+	<route:longName>ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>F19A1E</gtfs:color>
+	<gtfs:textColor>0</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/0"/>
+	<route:ID>25-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/021-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>21</route:shortName>
+	<route:longName>ΚΑΝΙΓΓΟΣ - ΓΚΥΖΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route_type/3">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#RouteType"/>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/021-20">
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>021-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/022-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>22</route:shortName>
+	<route:longName>Ν. ΚΥΨΕΛΗ - ΜΑΡΑΣΛΕΙΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>022-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/024-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>24</route:shortName>
+	<route:longName>ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΣΤ. ΑΤΤΙΚΗΣ-ΣΤ. ΛΑΡΙΣΗΣ (ΚΥΚΛΙΚΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>024-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/025-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>25</route:shortName>
+	<route:longName>ΙΠΠΟΚΡΑΤΟΥΣ - ΠΡΟΦ. ΔΑΝΙΗΛ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>025-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/026-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>26</route:shortName>
+	<route:longName>ΙΠΠΟΚΡΑΤΟΥΣ - ΒΟΤΑΝΙΚΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>026-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/027-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>27</route:shortName>
+	<route:longName>ΙΠΠΟΚΡΑΤΟΥΣ - ΟΡΦΕΩΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>027-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/032-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>32</route:shortName>
+	<route:longName>ΓΟΥΔΗ - ΜΑΡΑΣΛΕΙΟΣ (ΣΧΟΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>032-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/035-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>35</route:shortName>
+	<route:longName>ΑΝΩ ΚΥΨΕΛΗ - ΠΕΤΡΑΛΩΝΑ - ΤΑΥΡΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>035-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/036-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>36</route:shortName>
+	<route:longName>ΣΤ.ΚΑΤΕΧΑΚΗ-ΣΤ.ΠΑΝΟΡΜΟΥ-ΓΑΛΑΤΣΙ-ΚΥΨΕΛΗ (ΚΥΚΛ.)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>036-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/040-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>40</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΣΥΝΤΑΓΜΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>040-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/046-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>46</route:shortName>
+	<route:longName>ΜΟΥΣΕΙΟ - ΕΛΛΗΝΟΡΩΣΩΝ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>046-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/049-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>49</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΟΜΟΝΟΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>049-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/051-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>51</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΣΤΑΘ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>051-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/054-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>54</route:shortName>
+	<route:longName>ΠΕΡΙΣΣΟΣ - ΑΚΑΔΗΜΙΑ - ΜΕΤΑΜΟΡΦΩΣΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>054-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/057-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>57</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΛΟΦΟΣ ΣΚΟΥΖΕ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>057-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/060-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>60</route:shortName>
+	<route:longName>ΜΟΥΣΕΙΟ - ΑΚΑΔΗΜΙΑ - ΛΥΚΑΒΗΤΤΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>060-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/070-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>70</route:shortName>
+	<route:longName>ΓΗΡΟΚΟΜΕΙΟ - ΑΡ.ΠΑΓΟΣ- ΔΙΚΑΣΤΗΡΙΑ ΕΥΕΛΠΙΔΩΝ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>070-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/100-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>100</route:shortName>
+	<route:longName>ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΚΟΛΩΝΑΚΙ - ΑΓΟΡΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>100-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/101-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>101</route:shortName>
+	<route:longName>ΑΛΙΜΟΣ - ΕΛΛΗNIKO</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>101-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/106-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>106</route:shortName>
+	<route:longName>ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>106-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/109-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>109</route:shortName>
+	<route:longName>ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΝΩ ΚΑΛΑΜΑΚΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>109-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/112-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>112</route:shortName>
+	<route:longName>ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΣΤΑΘ. ΔΑΦΝΗΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>112-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/115-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>115</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΚΙΤΣΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>115-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/116-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>116</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΒΑΡΗ - ΚΙΤΣΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>116-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/117-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>117</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΒΟΥΛΙΑΓΜΕΝΗ - ΒΑΡΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>117-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/120-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>120</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΒΑΡΗ (Πηγαδάκια) - ΠΡΟΑΣΤ. ΚΟΡΩΠΙΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>120-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/122-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>122</route:shortName>
+	<route:longName>ΣΤ. ΕΛΛΗΝΙΚΟ - ΣΑΡΩΝΙΔΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>122-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/124-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>124</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΑΓΙΑ ΤΡΙΑΔΑ - ΣΤ. ΕΛΛΗΝΙΚΟ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>124-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/126-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>126</route:shortName>
+	<route:longName>ΠΑΛ. ΦΑΛΗΡΟ - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>126-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/128-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>128</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΤΕΡΨΙΘΕΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>128-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/130-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>130</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - Ν. ΣΜΥΡΝΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>130-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/131-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>131</route:shortName>
+	<route:longName>ΣΤ. ΔΑΦΝΗΣ - ΑΜΑΞ/ΣΙΟ  ΑΓ. ΔΗΜΗΤΡΙΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>131-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/136-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>136</route:shortName>
+	<route:longName>ΑΝΩ Ν. ΣΜΥΡΝΗ Β - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>136-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/137-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>137</route:shortName>
+	<route:longName>ΑΝΩ Ν. ΣΜΥΡΝΗ Α - ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>137-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/140-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>140</route:shortName>
+	<route:longName>ΠΟΛΥΓΩΝΟ - ΓΛΥΦΑΔΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>140-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/141-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>141</route:shortName>
+	<route:longName>ΣΤ. ΔΑΦΝΗΣ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>141-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/142-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>142</route:shortName>
+	<route:longName>ΣΤ. ΑΡΓΥΡΟΥΠΟΛΗ - ΚΑΛΑΜΑΚΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>142-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/154-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>154</route:shortName>
+	<route:longName>ΣΤ. ΕΛΛΗΝΙΚΟ - ΑΝΩ ΓΛΥΦΑΔΑ (ΠΑΝΟΡΑΜΑ ΒΟΥΛΑΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>154-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/155-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>155</route:shortName>
+	<route:longName>ΕΛΛΗΝΙΚΟ - ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>155-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/162-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>162</route:shortName>
+	<route:longName>ΒΟΥΛΑ - ΠΑΝΟΡΑΜΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>162-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/164-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>164</route:shortName>
+	<route:longName>ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - Κ. ΗΛ/ΠΟΛΗ - ΑΡΓ/ΠΟΛΗ-ΤΕΡΨΙΘΕΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>164-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/165-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>165</route:shortName>
+	<route:longName>ΤΕΡΨΙΘΕΑ - ΑΡΓΥΡΟΥΠΟΛΗ - ΣΥΝΤΑΓΜΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>165-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/171-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>171</route:shortName>
+	<route:longName>ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΒΑΡΚΙΖΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>171-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/201-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>201</route:shortName>
+	<route:longName>ΣΤ. ΑΓ. ΔΗΜΗΤΡΙΟΣ - ΑΡΓΥΡΟΥΠΟΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>201-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/203-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>203</route:shortName>
+	<route:longName>ΚΑΡΕΑΣ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>203-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/204-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>204</route:shortName>
+	<route:longName>ΣΤΡ. ΣΑΚΕΤΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>204-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/205-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>205</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΣΟΥΡΜΕΝΑ - ΤΕΡΨΙΘΕΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>205-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/206-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>206</route:shortName>
+	<route:longName>ΣΤ. ΔΑΦΝΗ - ΑΓΙΑ ΜΑΡΙΝΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>206-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/209-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>209</route:shortName>
+	<route:longName>ΜΕΤΑΜΟΡΦΩΣΗ - ΠΛΑΤΕΙΑ ΣΥΝΤΑΓΜΑΤΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>209-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/212-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>212</route:shortName>
+	<route:longName>ΣΤ. ΜΕΤΡΟ ΔΑΦΝΗΣ - ΒΥΡΩΝΑΣ - ΚΑΡΕΑΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>212-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/217-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>217</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>217-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/218-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>218</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΣΤ. ΔΑΦΝΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>218-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/219-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>219</route:shortName>
+	<route:longName>ΣΤ. ΚΑΛΛΙΘΕΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>219-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/220-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>220</route:shortName>
+	<route:longName>ΑΝΩ ΙΛΙΣΙΑ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>220-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/221-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>221</route:shortName>
+	<route:longName>ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>221-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/224-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>224</route:shortName>
+	<route:longName>ΚΑΙΣΑΡΙΑΝΗ - ΕΛ. ΒΕΝΙΖΕΛΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>224-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/227-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>227</route:shortName>
+	<route:longName>ΑΝΩ ΠΕΤΡΑΛΩΝΑ - ΑΓ. ΑΡΤΕΜΙΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>227-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/229-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>229</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ (ΣΤΑΘ. ΔΑΦΝΗΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>229-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/230-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>230</route:shortName>
+	<route:longName>ΑΚΡΟΠΟΛΗ - ΖΩΓΡΑΦΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>230-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/235-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>235</route:shortName>
+	<route:longName>ΖΩΓΡΑΦΟΥ - ΑΚΑΔΗΜΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>235-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/237-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>237</route:shortName>
+	<route:longName>ΣΤ. ΔΑΦΝΗ - ΑΝΩ ΗΛΙΟΥΠΟΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>237-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/242-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>242</route:shortName>
+	<route:longName>ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΤΕΧΝΕΙΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ) ΣΧΟΛ.</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>242-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/250-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>250</route:shortName>
+	<route:longName>ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ - ΣΤ. ΕΥΑΓΓΕΛΙΣΜΟΥ (ΚΥΚΛΙΚΗ) ΣΧ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>250-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/300-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>300</route:shortName>
+	<route:longName>ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΤΖΑΝΕΙΟ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>300-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/301-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>301</route:shortName>
+	<route:longName>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>301-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/301Β-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>301Β</route:shortName>
+	<route:longName>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΑΝΘΟΥΣΑ - ΠΕΝΤΕΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>301Β-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/302-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>302</route:shortName>
+	<route:longName>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΓΕΡΑΚΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>302-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/304-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>304</route:shortName>
+	<route:longName>ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΒΡΑΥΡΩΝΑ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>304-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/305-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>305</route:shortName>
+	<route:longName>ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ (ΑΓ. ΝΙΚΟΛΑΟΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>305-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/306-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>306</route:shortName>
+	<route:longName>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΚΑΝΤΖΑ - ΑΝΘΟΥΣΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>306-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/307-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>307</route:shortName>
+	<route:longName>ΣΤ. Δ. ΠΛΑΚΕΝΤΙΑΣ - ΓΛ. ΝΕΡΑ - ΠΡΟΑΣΤ.ΚΟΡΩΠΙΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>307-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/308-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>308</route:shortName>
+	<route:longName>ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΠΑΙΑΝΙΑ - ΚΟΡΩΠΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>308-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/309-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>309</route:shortName>
+	<route:longName>ΚΟΡΩΠΙ - ΣΤ. ΠΡΟΑΣΤΙΑΚΟΥ - ΚΟΡΩΠΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>309-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/314-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>314</route:shortName>
+	<route:longName>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΝΟΜ. ΑΝ. ΑΤΤΙΚΗΣ - ΠΑΛΛΗΝΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>314-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/316-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>316</route:shortName>
+	<route:longName>ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ - ΑΡΤΕΜΙΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>316-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/319-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>319</route:shortName>
+	<route:longName>ΣΤ. ΜΕΤΡΟ ΔΟΥΚ. ΠΛΑΚ.- ΠΑΛΛΗΝΗ-ΕΚΠΤ. ΧΩΡΙΟ-ΣΠΑΤΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>319-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/322-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>322</route:shortName>
+	<route:longName>ΑΓ. ΝΙΚΟΛΑΟΣ - ΒΡΑΥΡΩΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>322-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/323-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>323</route:shortName>
+	<route:longName>ΒΡΑΥΡΩΝΑ - ΑΓ. ΝΙΚΟΛΑΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>323-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/330-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>330</route:shortName>
+	<route:longName>ΚΟΡΩΠΙ - ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>330-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/402-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>402</route:shortName>
+	<route:longName>ΣΤ. ΚΑΤΕΧΑΚΗ - ΠΟΛΥΔΡΟΣΟ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>402-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/404-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>404</route:shortName>
+	<route:longName>ΣΤ. ΕΘΝ.ΑΜΥΝΑΣ - ΣΤ. ΧΑΛΑΝΔΡΙΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>404-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/405-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>405</route:shortName>
+	<route:longName>ΣΤ. ΧΑΛΑΝΔΡΙ - ΜΕΛΙΣΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>405-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/406-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>406</route:shortName>
+	<route:longName>ΣΤ. ΝΟΜΙΣΜ. - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΣΤ. ΠΛΑΚΕΝΤΙΑΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>406-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/407-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>407</route:shortName>
+	<route:longName>ΣΤ. ΝΟΜΙΣΜΑΤΟΚΟΠΕΙΟ-ΝΕΑ ΖΩΗ - ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>407-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/409-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>409</route:shortName>
+	<route:longName>ΠΑΠΑΓΟΥ - ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ-ΣΤ.ΚΑΤΕΧΑΚΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>409-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/410-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>410</route:shortName>
+	<route:longName> Ο.Α.Κ.Α- ΑΝΩ ΜΕΛΙΣΣΙΑ  (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>410-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/411-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>411</route:shortName>
+	<route:longName>ΣΤ. ΔΟΥΚ. ΠΛΑΚΕΝΤΙΑΣ - ΣΙΣΜΑΝΟΓΛΕΙΟ - ΧΑΛΑΝΔΡΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>411-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/413-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>413</route:shortName>
+	<route:longName>ΠΑΠΑΓΟΥ - ΣΤ. ΚΑΤΕΧΑΚΗ - ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>413-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/416-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>416</route:shortName>
+	<route:longName>ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ - ΧΟΛΑΡΓΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>416-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/418-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>418</route:shortName>
+	<route:longName>ΣΤ. ΕΘΝ. ΑΜΥΝΑΣ - ΣΧΟΛ. ΧΟΛΑΡΓΟΥ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>418-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/420-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>420</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΓ. ΑΝΑΡΓΥΡΟΙ (Μέσω ΚΗΦΙΣΟΥ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>420-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/421-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>421</route:shortName>
+	<route:longName>ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΑΓ. ΠΑΡΑΣΚΕΥΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>421-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/444-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>444</route:shortName>
+	<route:longName>ΣΤ. ΕΙΡΗΝΗ - ΓΑΛΑΤΣΙ - ΣΤ. ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>444-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/446-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>446</route:shortName>
+	<route:longName>ΣΤΑΘ. ΑΜΑΡΟΥΣΙΟΥ - ΝΟΣΟΚ. ΠΕΝΤΕΛΗΣ (Μέσω ΠΙΚΠΑ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>446-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/447-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>447</route:shortName>
+	<route:longName>ΧΑΛΑΝΔΡΙ - ΑΝΩ ΒΡΙΛΗΣΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>447-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/450-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>450</route:shortName>
+	<route:longName>ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>450-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/451-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>451</route:shortName>
+	<route:longName>ΣΤ. ΧΑΛΑΝΔΡΙ - Ν. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>451-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/460-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>460</route:shortName>
+	<route:longName>ΣΤ. ΧΑΛΑΝΔΡΙ - ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>460-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/461-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>461</route:shortName>
+	<route:longName>ΣΤ. ΧΑΛΑΝΔΡΙ - Π. ΠΕΝΤΕΛΗ - ΧΑΛΑΝΔΡΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>461-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/500-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>500</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΚΗΦΙΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>500-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/501-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>501</route:shortName>
+	<route:longName>ΠΕΥΚΗ - ΜΑΡΟΥΣΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>501-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/503-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>503</route:shortName>
+	<route:longName>ΖΗΡΙΝΕΙΟ - ΒΑΡΥΜΠΟΜΠΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>503-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/504-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>504</route:shortName>
+	<route:longName>ΘΡΑΚΟΜΑΚΕΔΟΝΕΣ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>504-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/507-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>507</route:shortName>
+	<route:longName>ΖΗΡΙΝΕΙΟ - ΡΟΔΟΠΟΛΗ - ΣΤΑΜΑΤΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>507-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/509-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>509</route:shortName>
+	<route:longName>ΖΗΡΙΝΕΙΟ - ΑΓ. ΣΤΕΦΑΝΟΣ - ΚΡΥΟΝΕΡΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>509-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/522-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>522</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Α (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>522-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/523-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>523</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΑΔΑΜΕΣ Β (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>523-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/524-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>524</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΠΟΛΙΤΕΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>524-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/526-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>526</route:shortName>
+	<route:longName>ΣΤ. ΚΗΦΙΣΙΑΣ - ΚΕΦΑΛΑΡΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>526-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/527-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>527</route:shortName>
+	<route:longName>ΠΕΥΚΗ - ΝΕΡΑΤΖΙΩΤΙΣΣΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>527-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/530-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>530</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΜΕΛΙΣΣΙΑ - Ν. ΠΕΝΤΕΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>530-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/535-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>535</route:shortName>
+	<route:longName>ΖΗΡΙΝΕΙΟ - ΕΥΞΕΙΝΟΣ ΠΟΝΤΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>535-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/536-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>536</route:shortName>
+	<route:longName>ΖΗΡΙΝΕΙΟ - ΔΙΟΝΥΣΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>536-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/537-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>537</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΒΑΡΥΜΠΟΜΠΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>537-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/541-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>541</route:shortName>
+	<route:longName>ΜΕΤΑΜΟΡΦΩΣΗ - ΣΤ. ΑΜΑΡΟΥΣΙΟΥ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>541-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/543-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>543</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΚΗΦΙΣΙΑΣ - ΝΟΣΟΚ. ΑΓ. ΑΝΑΡΓΥΡΟΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>543-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/550-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>550</route:shortName>
+	<route:longName>Π. ΦΑΛΗΡΟ - ΚΗΦΙΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>550-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/560-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>560</route:shortName>
+	<route:longName>ΣΤ. ΚΗΦΙΣΙΑ - ΜΟΡΤΕΡΟ - Ν. ΕΡΥΘΡΑΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>560-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/602-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>602</route:shortName>
+	<route:longName>Ν. ΙΩΝΙΑ - ΚΑΛΟΓΡΕΖΑ - ΣΤΑΘ. ΠΑΝΟΡΜΟΥ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>602-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/604-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>604</route:shortName>
+	<route:longName>ΝΟΣ. ΑΓ. ΑΝΑΡΓΥΡΩΝ - ΣΤ. ΜΕΤΑΜΟΡΦΩΣΗΣ - ΝΕΑ ΙΩΝΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>604-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/605-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>605</route:shortName>
+	<route:longName> ΠΕΡΙΣΣΟΣ - ΑΝΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>605-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/608-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>608</route:shortName>
+	<route:longName>ΓΑΛΑΤΣΙ - ΑΚΑΔΗΜΙΑ - ΝΕΚΡ. ΖΩΓΡΑΦΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>608-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/610-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>610</route:shortName>
+	<route:longName>ΦΙΛΟΘΕΗ - ΑΜΠΕΛΟΚΗΠΟΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>610-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/619-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>619</route:shortName>
+	<route:longName>ΜΕΤΑΜΟΡΦΩΣΗ-Ν.ΦΙΛΑΔΕΛΦΕΙΑ-ΣΤ.ΑΝΩ ΠΑΤΗΣΙΩΝ(ΚΥΚΛΙΚ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>619-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/622-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>622</route:shortName>
+	<route:longName>ΓΟΥΔΗ - ΑΝΩ ΓΑΛΑΤΣΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>622-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/640-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>640</route:shortName>
+	<route:longName>ΤΟΠΙΚΗ ΗΡΑΚΛΕΙΟΥ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>640-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/642-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>642</route:shortName>
+	<route:longName>ΗΡΑΚΛΕΙΟ - ΑΓ.ΝΕΚΤΑΡΙΟΣ - ΠΕΥΚΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>642-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/651-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>651</route:shortName>
+	<route:longName>ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Α (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>651-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/653-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>653</route:shortName>
+	<route:longName>ΨΥΧΙΚΟ - ΠΑΝΟΡΜΟΥ Β (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>653-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/700-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>700</route:shortName>
+	<route:longName>ΑΓΙΑ ΤΡΙΑΔΑ ΠΕΤΡΟΥΠΟΛΗ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>700-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/701-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>701</route:shortName>
+	<route:longName>ΚΑΜΑΤΕΡΟ - ΙΛΙΟΝ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>701-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/703-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>703</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ-ΑΓ. ΑΝΑΡΓΥΡΟΙ-ΑΓ. ΕΛΕΥΘΕΡΙΟΣ (Μέσω ΘΗΒΩΝ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>703-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/704-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>704</route:shortName>
+	<route:longName>ΚΑΜΑΤΕΡΟ - ΠΛ. ΑΓ. ΑΝΑΡΓΥΡΩΝ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>704-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/709-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>709</route:shortName>
+	<route:longName>ΤΟΠΙΚΟ ΔΡΟΣΟΥΠΟΛΗΣ Α (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>709-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/711-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>711</route:shortName>
+	<route:longName>ΖΩΦΡΙΑ - ΑΤΤΙΚΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>711-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/712-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>712</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΕΡΓ. ΠΟΛΥΚΑΤΟΙΚΙΕΣ - Α.ΛΙΟΣΙΑ (ΠΑΝΟΡΑΜΑ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>712-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/719-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>719</route:shortName>
+	<route:longName>ΚΗΠΟΥΠΟΛΗ - ΠΑΛΑΤΙΑΝΗ - ΣΤ. ΛΑΡΙΣΗΣ(ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>719-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/721-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>721</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΚΗΦΙΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>721-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/723-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>723</route:shortName>
+	<route:longName>ΦΥΛΗ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>723-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/724-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>724</route:shortName>
+	<route:longName>ΘΡΑΚ/ΔΟΝΕΣ - ΑΧΑΡΝΑΙ - Ν. ΙΩΝΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>724-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/727-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>727</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΜΕΣΟΝΥΧΙ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>727-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/728-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>728</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΠΛΑΤΩΝΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>728-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/729-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>729</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΑΓ. ΚΩΝΣΤΑΝΤΙΝΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>729-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/730-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>730</route:shortName>
+	<route:longName>ΛΟΦΟΣ ΑΞΙΩΜΑΤΙΚΩΝ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΖΩΟΔ. ΠΗΓΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>730-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/731-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>731</route:shortName>
+	<route:longName>ΑΝΘΟΥΠΟΛΗ - ΣΤ. Μ. ΑΝΘΟΥΠΟΛΗ- ΑΤΤΙΚΟ ΝΟΣ-ΔΑΣΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>731-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/732-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>732</route:shortName>
+	<route:longName>ΑΓ. ΦΑΝΟΥΡΙΟΣ - ΑΚΑΔΗΜΙΑ - ΖΩΟΔ. ΠΗΓΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>732-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/733-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>733</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΑΝΩ ΛΙΟΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>733-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/735-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>735</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ -ΖΕΦΥΡΙ - ΣΤ. ΚΑΤΩ ΠΑΤΗΣΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>735-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/740-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>740</route:shortName>
+	<route:longName>ΟΛΥΜΠ. ΧΩΡΙΟ - ΣΚΑ- ΑΧΑΡΝΑΙ- ΑΓ.ΑΝΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>740-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/747-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>747</route:shortName>
+	<route:longName>ΠΕΤΡΟΥΠΟΛΗ - ΠΑΝΟΡΑΜΑ - ΣΤ. ΑΝΘΟΥΠΟΛΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>747-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/748-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>748</route:shortName>
+	<route:longName>ΧΡΥΣΟΥΠΟΛΗ-ΑΝΘΟΥΠΟΛΗ-ΣΤ.ΠΕΡΙΣΤΕΡΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>748-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/749-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>749</route:shortName>
+	<route:longName>ΑΝΩ ΛΙΟΣΙΑ - ΟΙΚΙΣΜΟΣ ΓΕΝΝΗΜΑΤΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>749-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/750-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>750</route:shortName>
+	<route:longName>ΑΤΤΙΚΟ ΝΟΣΟΚΟΜΕΙΟ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ - ΝΙΚΑΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>750-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/752-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>752</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΑΓ. ΙΩΑΝΝΗΣ - ΑΓ. ΠΕΤΡΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>752-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/753-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>753</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΑΓ. ΠΕΤΡΟΣ - ΑΓ. ΙΩΑΝΝΗΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>753-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/790-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>790</route:shortName>
+	<route:longName>ΓΛΥΦΑΔΑ - ΠΕΡΙΣΤΕΡΙ (ΑΓ. ΑΝΤΩΝΙΟΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>790-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/800-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>800</route:shortName>
+	<route:longName>ΝΙΚΑΙΑ - ΠΕΙΡΑΙΑΣ (ΠΛ. ΑΝΑΛΗΨΕΩΣ) (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>800-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/801-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>801</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΠΑΛΑΣΚΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>801-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/803-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>803</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΔΑΣΟΣ Β (Μέσω ΙΕΡΑΣ ΟΔΟΥ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>803-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/805-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>805</route:shortName>
+	<route:longName>ΑΣΠΡΟΠΥΡΓΟΣ - ΝΕΟΚΤΙΣΤΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>805-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/806-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>806</route:shortName>
+	<route:longName>ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>806-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/807-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>807</route:shortName>
+	<route:longName>ΑΝΩ ΚΟΡΥΔΑΛΛΟΣ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>807-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/809-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>809</route:shortName>
+	<route:longName>ΣΧΙΣΤΟ - ΚΟΡΥΔΑΛΛΟΣ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>809-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/810-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>810</route:shortName>
+	<route:longName>ΣΧΙΣΤΟ - ΚΟΡΥΔΑΛΛΟΣ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>810-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/811-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>811</route:shortName>
+	<route:longName>ΧΑΪΔΑΡΙ - ΣΤ. ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>811-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/813-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>813</route:shortName>
+	<route:longName>ΑΒΕΡΩΦ - ΠΡΟΥΣΣΗΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>813-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/814-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>814</route:shortName>
+	<route:longName>ΣΧΙΣΤΟ - ΚΑΡΑΒΑΣ - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>814-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/815-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>815</route:shortName>
+	<route:longName>ΓΟΥΔΗ - ΤΑΥΡΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>815-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/816-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>816</route:shortName>
+	<route:longName>ΤΑΥΡΟΣ - ΑΓ. ΔΗΜΗΤΡΙΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>816-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/817-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>817</route:shortName>
+	<route:longName>ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>817-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/818-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>818</route:shortName>
+	<route:longName>ΛΙΜ. ΠΕΡΑΜΑΤΟΣ - ΑΝΩ ΠΕΡΑΜΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>818-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/819-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>819</route:shortName>
+	<route:longName>ΠΕΡΑΜΑ - ΝΕΚΡ. ΣΧΙΣΤΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>819-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/820-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>820</route:shortName>
+	<route:longName>ΚΕΡΑΤΣΙΝΙ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΤΟΠΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>820-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/821-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>821</route:shortName>
+	<route:longName>ΑΓΙΑ ΑΝΑΣΤΑΣΙΑ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>821-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/822-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>822</route:shortName>
+	<route:longName>ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ - ΝΕΑ ΖΩΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>822-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/823-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>823</route:shortName>
+	<route:longName>ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΣΤ. ΑΓ. ΑΝΤΩΝΙΟΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>823-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/824-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>824</route:shortName>
+	<route:longName>ΑΓ. ΑΝΤΩΝΙΟΣ Α - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>824-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/825-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>825</route:shortName>
+	<route:longName>ΑΓ. ΑΝΤΩΝΙΟΣ Β - ΠΕΙΡΑΙΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>825-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/826-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>826</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΓ. ΜΗΝΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>826-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/827-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>827</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - Γ΄ ΝΕΚΡΟΤ. - ΑΣΠΡΑ ΧΩΜΑΤΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>827-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/828-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>828</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΣΠΡΑ ΧΩΜΑΤΑ - Γ΄ ΝΕΚΡΟΤ. (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>828-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/829-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>829</route:shortName>
+	<route:longName>Τ.Ε.Ι  ΑΘΗΝΑΣ-ΣΤ.ΜΕΤΡΟ ΑΙΓΑΛΕΩ-Τ.Ε.Ι. ΠΕΙΡΑΙΑ (ΚΥΚ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>829-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/830-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>830</route:shortName>
+	<route:longName>ΑΓ.ΒΑΡΒΑΡΑ-ΠΕΙΡΑΙΑΣ(ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>830-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/831-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>831</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΙΓΑΛΕΩ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>831-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/832-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>832</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΕΥΓΕΝΕΙΑ - ΧΑΡΑΥΓΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>832-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/833-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>833</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΧΑΡΑΥΓΗ - ΕΥΓΕΝΕΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>833-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/836-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>836</route:shortName>
+	<route:longName>ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΠΑΛΑΣΚΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>836-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/837-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>837</route:shortName>
+	<route:longName>ΑΝΩ ΑΓ. ΒΑΡΒΑΡΑ - ΣΤ.  ΑΓΙΑ ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>837-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/838-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>838</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΡΕΝΤΗΣ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>838-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/843-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>843</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΠΕΡΑΜΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>843-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/845-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>845</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (Μέσω ΘΗΒΩΝ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>845-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/846-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>846</route:shortName>
+	<route:longName>ΝΕΑΠΟΛΗ - ΠΕΙΡΑΙΑΣ Α (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>846-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/847-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>847</route:shortName>
+	<route:longName>ΝΕΑΠΟΛΗ - ΠΕΙΡΑΙΑΣ Β (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>847-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/852-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>852</route:shortName>
+	<route:longName>ΝΕΑΠΟΛΗ - ΣΤ. ΜΕΤΡΟ ΑΙΓΑΛΕΩ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>852-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/855-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>855</route:shortName>
+	<route:longName>ΨΑΡΙ - ΑΣΠΡΟΠΥΡΓΟΣ - ΛΟΦΟΣ ΚΥΡΙΛΛΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>855-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/856-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>856</route:shortName>
+	<route:longName>ΑΙΓΑΛΕΩ - ΥΜΗΤΤΟΣ - ΔΑΦΝΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>856-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/859-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>859</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΔΕΞΑΜΕΝΕΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>859-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/860-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>860</route:shortName>
+	<route:longName>Π. ΦΑΛΗΡΟ-ΓΕΝ. ΚΡΑΤΙΚΟ ΝΙΚΑΙΑΣ-ΣΧΙΣΤΟ ΚΕΡΑΤΣΙΝΙΟΥ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>860-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/861-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>861</route:shortName>
+	<route:longName>ΕΛΕΥΣΙΝΑ - ΜΑΝΔΡΑ (ΟΙΚΙΣΜΟΣ ΤΙΤΑΝ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>861-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/862-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>862</route:shortName>
+	<route:longName>ΠΑΡΑΛΙΑ - ΑΝΩ ΕΛΕΥΣΙΝΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>862-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/863-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>863</route:shortName>
+	<route:longName>ΕΛΕΥΣΙΝΑ - ΘΡΙΑΣΙΟ ΝΟΣ. - ΜΑΝΔΡΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>863-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/864-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>864</route:shortName>
+	<route:longName>ΕΛΕΥΣΙΝΑ - ΒΙΟΜΗΧΑΝΙΚΗ ΖΩΝΗ ΜΑΓΟΥΛΑΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>864-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/865-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>865</route:shortName>
+	<route:longName>ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΜΑΝΔΡΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>865-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/866-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>866</route:shortName>
+	<route:longName>ΑΣΠΡΟΠΥΡΓΟΣ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>866-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/871-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>871</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΕΛΕΥΣΙΝΑ (Μέσω Λ. ΕΘΝ.ΑΝΤΙΣΤΑΣΕΩΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>871-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/875-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>875</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - Ν. ΜΩΛΟΣ ΔΡΑΠΕΤΣΩΝΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>875-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/876-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>876</route:shortName>
+	<route:longName>ΕΛΕΥΣΙΝΑ - ΣΤ. ΑΓ. ΜΑΡΙΝΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>876-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/878-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>878</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΕΛΕΥΣΙΝΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>878-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/879-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>879</route:shortName>
+	<route:longName>ΑΧΑΡΝΑΙ - ΘΡΙΑΣΙΟ ΝΟΣΟΚΟΜΕΙΟ - ΕΛΕΥΣΙΝΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>879-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/881-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>881</route:shortName>
+	<route:longName>ΕΛΕΥΣΙΝΑ - ΑΣΠΡΟΠΥΡΓΟΣ - ΡΟΥΠΑΚΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>881-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/891-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>891</route:shortName>
+	<route:longName>ΑΙΓΑΛΕΩ - ΠΕΡΙΣΤΕΡΙ - ΣΤΑΘ. ΑΤΤΙΚΗΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>891-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/892-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>892</route:shortName>
+	<route:longName>ΑΓ. ΒΑΡΒΑΡΑ - ΧΑΪΔΑΡΙ - ΑΓ. ΑΝΑΡΓΥΡΟΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>892-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/904-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>904</route:shortName>
+	<route:longName>ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΣΤ. ΠΕΙΡΑΙΑ - ΦΡΕΑΤΤΥΔΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>904-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/906-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>906</route:shortName>
+	<route:longName>ΠΛ. ΚΑΡΑΪΣΚΑΚΗ - ΚΑΛΛΙΠΟΛΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>906-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/909-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>909</route:shortName>
+	<route:longName>ΑΓ. ΒΑΣΙΛΕΙΟΣ - ΑΓ. ΣΟΦΙΑ - ΚΡΑΤ. ΝΙΚΑΙΑΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>909-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/910-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>910</route:shortName>
+	<route:longName>ΣΤ. ΣΥΓΓΡΟΥ ΦΙΞ - ΤΖΙΤΖΙΦΙΕΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>910-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/911-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>911</route:shortName>
+	<route:longName>ΣΤΑΘ. ΚΑΛΛΙΘΕΑΣ - ΙΔΡ. ΤΥΦΛΩΝ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>911-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/914-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>914</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΛΑΧΑΝΑΓΟΡΑ - ΠΑΛ. ΚΟΚΚΙΝΙΑ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>914-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/915-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>915</route:shortName>
+	<route:longName>ΛΟΦΟΣ ΒΩΚΟΥ- ΠΡ.ΗΛΙΑΣ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>915-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α1-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α1</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΒΟΥΛΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α1-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α10-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α10</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α10-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α11-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α11</route:shortName>
+	<route:longName>ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ (ΜΕΣΩ ΠΑΝΟΡΑΜΑΤΟΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α11-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α13-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α13</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΚΗΠΟΥΠΟΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α13-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α15-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α15</route:shortName>
+	<route:longName>ΣΤ. ΛΑΡΙΣΗΣ - ΔΑΣΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α15-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α16-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α16</route:shortName>
+	<route:longName>ΠΛ. ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΕΛΕΥΣΙΝΑ (Μέσω ΙΕΡΑΣ ΟΔΟΥ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α16-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α2-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α2</route:shortName>
+	<route:longName>ΑΚΑΔΗΜΙΑ - ΒΟΥΛΑ (Μέσω Λ. ΑΜΦΙΘΕΑΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α2-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α3-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α3</route:shortName>
+	<route:longName>ΑΚΑΔΗΜΙΑ - ΓΛΥΦΑΔΑ  (Μέσω ΒΟΥΛΙΑΓΜΕΝΗΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α3-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α5-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α5</route:shortName>
+	<route:longName>ΑΚΑΔΗΜΙΑ - ΑΓ. ΠΑΡΑΣΚΕΥΗ - ΑΝΘΟΥΣΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α5-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α7-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α7</route:shortName>
+	<route:longName>ΣΤΟΥΡΝΑΡΗ - ΚΗΦΙΣΙΑ (ΠΛ.ΠΛΑΤΑΝΟΥ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α7-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Α8-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Α8</route:shortName>
+	<route:longName>ΠΟΛΥΤΕΧΝΕΙΟ - Ν. ΙΩΝΙΑ - ΜΑΡΟΥΣΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Α8-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β1-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β1</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΝΩ ΓΛΥΦΑΔΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β1-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β10-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β10</route:shortName>
+	<route:longName>ΣΤΑΘΜΟΣ ΛΑΡΙΣΗΣ - ΑΧΑΡΝΑΙ (Μέσω ΑΡΙΣΤΟΤΕΛΟΥΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β10-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β11-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β11</route:shortName>
+	<route:longName>ΠΛ. ΒΑΘΗ - ΙΛΙΟΝ - ΠΕΤΡΟΥΠΟΛΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β11-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β12-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β12</route:shortName>
+	<route:longName>ΜΑΡΝΗ - ΑΝΩ ΛΙΟΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β12-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β15-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β15</route:shortName>
+	<route:longName>ΣΤ. ΛΑΡΙΣΗΣ - ΠΑΛΑΤΑΚΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β15-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β18-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β18</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΠΕΡΑΜΑ (Μέσω Π. ΡΑΛΛΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β18-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β2-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β2</route:shortName>
+	<route:longName>ΑΚΑΔΗΜΙΑ - ΑΓΙΟΣ ΚΟΣΜΑΣ (Μέσω ΠΑΡΑΛΙΑΚΗΣ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β2-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β5-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β5</route:shortName>
+	<route:longName>ΣΤ. ΛΑΡΙΣΗΣ - Λ. ΑΛΕΞΑΝΔΡΑΣ - ΑΓ. ΠΑΡΑΣΚΕΥΗ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β5-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Β9-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Β9</route:shortName>
+	<route:longName>ΧΑΛΚΟΚΟΝΔΥΛΗ - ΜΕΤΑΜΟΡΦΩΣΗ - Ν. ΚΗΦΙΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Β9-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Γ10-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Γ10</route:shortName>
+	<route:longName>ΑΝΑΚΑΣΑ - ΑΓ. ΑΝΑΡΓΥΡΟΙ - ΠΛ. ΒΑΘΗ (ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Γ10-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Γ12-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Γ12</route:shortName>
+	<route:longName>ΚΑΜΑΤΕΡΟ - ΑΓ.ΝΙΚΟΛΑΟΣ-ΙΛΙΟΝ - ΠΟΛ/ΧΝΕΙΟ(ΚΥΚΛΙΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Γ12-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Γ16-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Γ16</route:shortName>
+	<route:longName>ΠΛΑΤΕΙΑ ΚΟΥΜΟΥΝΔΟΥΡΟΥ - ΑΣΠΡΟΠΥΡΓΟΣ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Γ16-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Γ18-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Γ18</route:shortName>
+	<route:longName>ΟΜΟΝΟΙΑ - ΠΕΡΑΜΑ (Μέσω ΓΡ. ΛΑΜΠΡΑΚΗ)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Γ18-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Γ9-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Γ9</route:shortName>
+	<route:longName>ΧΑΛΚΟΚΟΝΔΥΛΗ - Κ. ΜΥΛΟΣ - ΑΧΑΡΝΑΙ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Γ9-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Ε14-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Ε14</route:shortName>
+	<route:longName>ΣΥΝΤΑΓΜΑ - Ο.Α.Κ.Α - ΥΠ.ΠΑΙΔΕΙΑΣ (EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Ε14-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Ε15-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Ε15</route:shortName>
+	<route:longName>ΣΤ. ΛΑΡΙΣΗΣ - ΤΕΙ ΑΘΗΝΩΝ (ΣΧΟΛΙΚΗ  EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Ε15-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Ε90-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Ε90</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΠΑΝΕΠΙΣΤΗΜΙΟΥΠΟΛΗ (ΣΧΟΛΙΚΗ EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Ε90-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Χ14-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Χ14</route:shortName>
+	<route:longName>ΣΥΝΤΑΓΜΑ - ΚΗΦΙΣΙΑ</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Χ14-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Χ93-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Χ93</route:shortName>
+	<route:longName>ΣΤ. ΥΠΕΡ. ΛΕΩΦ. ΚΗΦΙΣΟΥ - ΑΕΡ/ΝΑΣ ΑΘΗΝΩΝ (EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Χ93-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Χ95-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Χ95</route:shortName>
+	<route:longName>ΣΥΝΤΑΓΜΑ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Χ95-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Χ96-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Χ96</route:shortName>
+	<route:longName>ΠΕΙΡΑΙΑΣ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Χ96-20</route:ID>
+</rdf:Description>
+
+<rdf:Description rdf:about="https://route-owl.github.io/resource/route/Χ97-20">
+	<rdf:type rdf:resource="http://vocab.gtfs.org/terms#route"/>
+	<route:shortName>Χ97</route:shortName>
+	<route:longName>ΣΤ. ΜΕΤΡΟ ΕΛΛΗΝΙΚΟ - ΑΕΡΟΛ. ΑΘΗΝΩΝ (EXPRESS)</route:longName>
+	<gtfs:color>153CE0</gtfs:color>
+	<gtfs:textColor>FFFFFF</gtfs:textColor>
+	<route:hasType rdf:resource="https://route-owl.github.io/resource/route_type/3"/>
+	<route:ID>Χ97-20</route:ID>
+</rdf:Description>
+
+</rdf:RDF>
